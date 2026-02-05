@@ -1,4 +1,4 @@
-Project Overview
+Project Overview  The website is now live at: https://cynthia-m-m.github.io/feb-2025-final-project-and-deployment-Cynthia-M-M/
 The SmartCart website is an e-commerce platform that provides a simple and responsive online shopping experience. This project includes a homepage, a product page, and a contact page, with a focus on providing a seamless user interface. The website utilizes HTML5, CSS3, and JavaScript for interactivity and responsiveness. It also includes a functional navigation menu, responsive grid layout for products, and a contact form with form validation.
 
 Key Features:
